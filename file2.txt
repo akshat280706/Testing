@@ -1,0 +1,2 @@
+this is file 2 
+just creating to check the command git branch and to see how does it works
